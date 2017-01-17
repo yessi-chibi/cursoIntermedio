@@ -1,0 +1,44 @@
+body{
+  background: pink;
+  text-align: center;
+}
+.tabla{
+text-align: center;
+margin: auto;
+  }
+  .c1{
+  width: 225px;
+  height: 225px;
+  overflow: hidden;
+  margin: 10px;
+  background: yellow;
+}
+.c1:hover{
+  height: 500px;
+  text-align: center;
+  overflow:auto;
+}
+.c2{
+  width: 225px;
+  height: 225px;
+  overflow: hidden;
+  margin: 10px;
+  background: red;
+}
+.c2:hover{
+  height: 500px;
+  text-align: center;
+  overflow:auto;
+}
+.c3{
+  width: 225px;
+  height: 225px;
+  overflow: hidden;
+  margin: 10px;
+  background: gray;
+}
+.c3:hover{
+  height: 500px;
+  text-align: center;
+  overflow:auto;
+}
